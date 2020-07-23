@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="2" failures="0" time="0.735">
+  <testsuite name="quicky" errors="0" failures="0" skipped="0" timestamp="2020-07-23T13:17:13" time="0.192" tests="1">
+    <testcase classname="quicky tests" name="quicky tests" time="0.001">
+    </testcase>
+  </testsuite>
+  <testsuite name="a really long test" errors="0" failures="0" skipped="0" timestamp="2020-07-23T13:17:13" time="0.082" tests="1">
+    <testcase classname="a really long test wonders if anyone knows why this test is really long" name="a really long test wonders if anyone knows why this test is really long" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
